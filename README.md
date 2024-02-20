@@ -10,9 +10,9 @@ c. The distribution and trend of ratings over time.
 d. Whether reviewers prefer long or short reviews, and their receptiveness to spoilers.
 
 ## Technical
-a. Library: 
-Data Processing (pandas, os, csv, nltk), 
-Data Visualization (matplotlib, seaborn), 
-Web Scraping (Selenium, Webdriver, time), 
-Word Cloud Generation (Wordcloud)
-b. Learning Materials & Technical Supportive: YouTube, Udemy, Bilibili, Stack Overflow, CSDN, GitHub.
+- a. Library: 
+  - Data Processing (pandas, os, csv, nltk), 
+  - Data Visualization (matplotlib, seaborn), 
+  - Web Scraping (Selenium, Webdriver, time), 
+  - Word Cloud Generation (Wordcloud)
+- b. Learning Materials & Technical Supportive: YouTube, Udemy, Bilibili, Stack Overflow, CSDN, GitHub.
