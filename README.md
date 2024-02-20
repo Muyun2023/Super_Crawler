@@ -2,8 +2,7 @@
 
 ## Project Description
 
-- Goal:
-  - This project aims to collect and visualize data from IMDb, a popular online film database. Our objectives are to crawl reviews of The Shawshank Redemption and store that data in a CSV file, of which the code can be adapted to crawl reviews for any film on this website. Furthermore, through data analysis and visualization, our analysis dimensions and visualization methods can be applied to any other films. The project is completed by a leaderless team of four members who share a similar amount of workload.
+- Goal: This project aims to collect and visualize data from IMDb, a popular online film database. Our objectives are to crawl reviews of The Shawshank Redemption and store that data in a CSV file, of which the code can be adapted to crawl reviews for any film on this website. Furthermore, through data analysis and visualization, our analysis dimensions and visualization methods can be applied to any other films. The project is completed by a leaderless team of four members who share a similar amount of workload.
   
 - User Stories: As IMDb reviewers, we aimed to understand audience preferences through movie reviews. Using the classic film "The Shawshank Redemption" as an example, we crawled existing reviews from IMDb, and then visualized and analyzed the data. Our data analysis allowed us to uncover: 
     - The most important dimensions of the movie according to critics. 
